@@ -59,7 +59,7 @@
         <item name="wifi_signal">@drawable/wifi_signal_light</item>
     </style>
 
-    <style name="Theme.Settings" parent="@android:style/Theme.Holo">
+    <style name="Theme.Settings" parent="@android:style/Theme.Holo.Light">
         <item name="apnPreferenceStyle">@style/ApnPreference</item>
         <item name="ic_menu_add">@drawable/ic_menu_add_dark</item>
         <item name="ic_menu_moreoverflow">@*android:drawable/ic_menu_moreoverflow_holo_dark</item>
